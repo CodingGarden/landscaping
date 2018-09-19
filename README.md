@@ -133,6 +133,10 @@ Examples:
 
 ### Show Type or Series
 
+Suggest a new type of show or series to do.
+
+If you have a suggestion for an existing series, please add it as a comment to the [existing issue here](https://github.com/CodingGarden/landscaping/issues?q=is%3Aopen+is%3Aissue+label%3A%22%F0%9F%93%BA+Show+Type+or+Series%22).
+
 Examples:
 
 * "Free Debugs" Radio Show
