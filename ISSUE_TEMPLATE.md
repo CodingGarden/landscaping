@@ -10,6 +10,7 @@ Your idea may have already been suggested! Please search on the [issues tracker]
 * [ ] App Constraint
 * [ ] Front-end Technology
 * [ ] Back-end Technology
+* [ ] Deployment
 * [ ] DevOps
 * [ ] Code Craft
 * [ ] Workflow/Tools
