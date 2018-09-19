@@ -11,6 +11,7 @@ Your idea may have already been suggested! Please search on the [issues tracker]
 * [ ] Front-end Technology
 * [ ] Back-end Technology
 * [ ] DevOps
+* [ ] Code Craft
 * [ ] Workflow/Tools
 * [ ] Show Type or Series
 * [ ] Something Else
