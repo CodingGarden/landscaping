@@ -21,9 +21,11 @@ Your idea may have already been suggested! Please search on the [issues tracker]
 * [Deployment](#deployment)
 * [DevOps](#devops)
 * [Code Craft](#code-craft)
-* [Workflow/Tools](#workflow-tools)
+* [Workflow/Tools](#workflowtools)
 * [Show Type or Series](#show-type-or-series)
 * [Something Else](#something-else)
+
+---
 
 ### App Idea
 
@@ -35,6 +37,8 @@ Examples:
 * Trello Clone
 * Discord Clone
 
+---
+
 ### App Constraint
 
 This is a constraint to be applied to an app that is being built.
@@ -44,6 +48,8 @@ Examples:
 * No Variables
 * 1 Line Functions only
 * No Functions
+
+---
 
 ### Front-end Technology
 
@@ -56,6 +62,8 @@ Examples:
 * Moment.js
 * Lodash
 
+---
+
 ### Back-end Technology
 
 A back-end library, framework, language, database etc. to use.
@@ -67,6 +75,8 @@ Examples:
 * Redis
 * Go
 
+---
+
 ### Deployment
 
 Anything related to puting things on the web.
@@ -76,6 +86,8 @@ Examples:
 * Heroku
 * now.sh
 * Netlify
+
+---
 
 ### DevOps
 
@@ -87,6 +99,8 @@ Examples:
 * Jenkins
 * Docker Swarm
 
+---
+
 ### Code Craft
 
 Anything related to writing better code.
@@ -96,6 +110,8 @@ Examples:
 * Unit Testing
 * Design Patterns
 * Refactoring
+
+---
 
 ### Workflow/Tools
 
@@ -107,12 +123,16 @@ Examples:
 * Window Management
 * Keyboard Shortcuts
 
+---
+
 ### Show Type or Series
 
 Examples:
 
 * "Free Debugs" Radio Show
 * Day in the Life
+
+---
 
 ### Something Else
 
