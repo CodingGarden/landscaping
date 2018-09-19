@@ -13,6 +13,7 @@ Your idea may have already been suggested! Please search on the [issues tracker]
 * [ ] DevOps
 * [ ] Workflow/Tools
 * [ ] Show Type or Series
+* [ ] Something Else
 
 ## (REQUIRED) How are you affiliated with Coding Garden?
 
