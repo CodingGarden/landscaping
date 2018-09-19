@@ -14,16 +14,16 @@ Your idea may have already been suggested! Please search on the [issues tracker]
 
 ## Types of Ideas
 
-* [App Idea](#app-idea)
-* [App Constraint](#app-constraint)
-* [Front-end Technology](#front-end-technology)
-* [Back-end Technology](#back-end-technology)
-* [Deployment](#deployment)
-* [DevOps](#devops)
-* [Code Craft](#code-craft)
-* [Workflow/Tools](#workflowtools)
-* [Show Type or Series](#show-type-or-series)
-* [Something Else](#something-else)
+* [💡 App Idea](#app-idea)
+* [🙈 App Constraint](#app-constraint)
+* [💻 Front-end Technology](#front-end-technology)
+* [🐘 Back-end Technology](#back-end-technology)
+* [🚀 Deployment](#deployment)
+* [📦 DevOps](#devops)
+* [🎩 Code Craft](#code-craft)
+* [🛠 Workflow/Tools](#workflowtools)
+* [📺 Show Type or Series](#show-type-or-series)
+* [⁉️ Something Else](#something-else)
 
 ---
 
