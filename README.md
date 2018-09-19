@@ -12,6 +12,12 @@ Your idea may have already been suggested! Please search on the [issues tracker]
 * Limit your suggestion to 1 category
 * Be as descriptive as possible
 
+## Upvote an Idea
+
+To show your support for an idea, [emoji react](https://blog.github.com/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) to the top comment on the issue.
+
+Also, you can add a comment to the issue describing why you think the idea is a good one.
+
 ## Types of Ideas
 
 * [💡 App Idea](#app-idea)
