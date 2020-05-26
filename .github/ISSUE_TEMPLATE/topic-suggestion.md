@@ -30,9 +30,12 @@ Your idea may have already been suggested! Please search on the [issues tracker]
 
 Please check all that apply
 
-* [ ] [YouTube Subscriber](https://www.youtube.com/codinggardenwithcj?sub_confirmation=1)
+* [ ] [Twitch Subscriber](https://twitch.tv/codinggarden)
 * [ ] [Patron](https://www.patreon.com/CodingGardenWithCJ)
+* [ ] [YouTube Member](https://www.youtube.com/codinggardenwithcj/join)
 * [ ] [Donor](https://streamlabs.com/CodingGardenWithCJ)
+* [ ] [Twitch Follower](https://twitch.tv/codinggarden)
+* [ ] [YouTube Subscriber](https://www.youtube.com/codinggardenwithcj?sub_confirmation=1)
 
 ## (REQUIRED) Describe your suggestion
 
